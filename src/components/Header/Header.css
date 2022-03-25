@@ -1,4 +1,6 @@
 .header{
     background-color: lightcoral;
     padding: 20px;
+    /* position: sticky;
+    top: 0; */
 }
