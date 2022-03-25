@@ -42,3 +42,16 @@
     /* position: sticky;
     top: 0; */
 }
+
+
+/* For Mobile Devices */
+
+@media screen and (max-width: 500px) {
+    .container, .monitors-container{
+        grid-template-columns: 1fr;
+    }
+    .choose-container img{
+        width: 300px;
+    }
+    
+}
