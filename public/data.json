@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "MSI Optix G32C4 31.5 Inch Monitor",
+      "img": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/g32c4/g32c4-500x500.jpg",
+      "price": 52000
+    },
+    {
+      "id": 2,
+      "name": "BenQ Zowie XL2731 144Hz 27 Inch Monitor",
+      "img": "https://www.startech.com.bd/image/cache/catalog/monitor/benq/xl2731-001-500x500.jpg",
+      "price": 37500
+    },
+    {
+      "id": 3,
+      "name": "SAMSUNG LF22T350 22 Inch Monitor",
+      "img": "https://www.startech.com.bd/image/cache/catalog/monitor/samsung/lf22t350fhnxza/lf22t350fhnxza-500x500.jpg",
+      "price": 15500
+    },
+    {
+      "id": 4,
+      "name": "Dell D1918H 18.5 Inch Monitor",
+      "img": "https://www.startech.com.bd/image/cache/catalog/monitor/dell/d1918h/d1918h-01-500x500.jpg",
+      "price": 9500
+    },
+    {
+      "id": 5,
+      "name": "Dell SE2222H 21.5 Inch FHD Monitor",
+      "img": "https://www.startech.com.bd/image/cache/catalog/monitor/dell/se2222h/se2222h-01-500x500.jpg",
+      "price": 13800
+    },
+    {
+      "id": 6,
+      "name": "HP M22f 22 Inch Monitor",
+      "img": "https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/m22f/m22f-500x500.jpg",
+      "price": 17500
+    },
+    {
+      "id": 7,
+      "name": "HP M24f 24 Inch Monitor",
+      "img": "https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/m24f/m24f-500x500.jpg",
+      "price": 21500
+    },
+    {
+      "id": 8,
+      "name": "Asus VP249QGR 23.8 Inch Gaming Monitor",
+      "img": "https://www.startech.com.bd/image/cache/catalog/monitor/asus/vp249qgr/vp249qgr-500x500.jpg",
+      "price": 27500
+    },
+    {
+      "id": 9,
+      "name": "Xiaomi XMMNT27HQ 27-Inch Gaming Monitor",
+      "img": "https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/xiaomi-27-inch/xiaomi-xmmnt27hq-monitor-2-500x500.jpg",
+      "price": 35000
+    }
+    
+  ]

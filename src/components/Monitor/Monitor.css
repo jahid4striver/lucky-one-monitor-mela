@@ -1,0 +1,22 @@
+
+.monitor{
+    box-shadow: 5px 5px 10px rgba(26, 23, 23, 0.386);
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+}
+
+.monitor img{
+    width: 300px;
+    border-radius: 10px;
+}
+.btn-cart{
+    padding: 20px;
+    background-color: lightcoral;
+    color: #fff;
+    font-size: 16px;
+    border: 1px solid salmon;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bolder;
+}
