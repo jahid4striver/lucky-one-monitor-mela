@@ -1,5 +1,22 @@
+.container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 20px;
+}
+
+
 .monitors-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
+}
+
+.cart-container{
+        box-shadow: 5px 5px 10px rgba(26, 23, 23, 0.386);
+        background-color:lightcoral;
+        padding: 10px;
+        border-radius: 10px;
+        border: 1px solid lightgray;
+        margin: 0px 10px;
+        /* height: 600px; */
 }
