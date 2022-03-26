@@ -56,7 +56,7 @@ const Monitors = () => {
             </div>
         {/* Cart Display */}
             <div className='cart-container'>
-                <h1>Selected Items</h1>
+                <h1 className='cart-head'>Selected Items</h1>
             <div>
                 {
                     cart.map(item=><Cart item={item}></Cart>)

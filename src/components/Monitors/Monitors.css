@@ -14,18 +14,22 @@
 }
 
 .cart-container{
-        box-shadow: 5px 5px 10px rgba(26, 23, 23, 0.386);
-        background-color:lightcoral;
-        padding: 10px;
-        border-radius: 10px;
-        border: 1px solid lightgray;
-        margin: 0px 10px;
+    box-shadow: 5px 5px 10px rgba(26, 23, 23, 0.386);
+    background-color:lightcoral;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    margin: 0px 10px;
+    max-height: 850px;
+}
+.cart-head{
+    color: white;
 }
 
 .choose-btn{
     background-color: white;
-    color: green;
-    padding: 30px 40px;
+    color: tomato;
+    padding: 20px 30px;
     margin-top: 10px;
     font-size: 20px;
     border: 1px solid salmon;
@@ -37,9 +41,8 @@
 .choose-container{
     display: grid;
     grid-template-columns: 1fr;
-    /* position: sticky;
-    top: 0; */
 }
+
 
 
 /* For Mobile Devices */
